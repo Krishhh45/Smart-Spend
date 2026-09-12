@@ -1,4 +1,4 @@
-# 💰 SmartSpend (Vexora) — Intelligent Personal Finance & Budget Planner
+# 💰 SmartSpend  — Intelligent Personal Finance & Budget Planner
 
 > **Modern, Multilingual & Proactive Personal Financial Management Web Application**
 
